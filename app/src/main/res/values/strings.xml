@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Weather App</string>
+
+    <!--  For Internet  -->
+    <string name="connection_is_lost">No connection</string>
+    <string name="waiting_for_connection">Waiting for connection</string>
+    <string name="connection_is_back">Back to connection</string>
+    <string name="request_timeout_please_check_your_connection">Request timeout, Please check your connection.</string>
+    <string name="sorry_something_went_wrong_and_being_reported_now">Sorry, Something went Wrong and being reported now.</string>
+
+    <!--  For AppStructure & Validation  -->
+    <string name="retry">Retry</string>
+    <string name="search_here">Search Here…</string>
+    <string name="no_result">There is no result !</string>
+    <string name="current_weather_condition_is">Current weather condition is :</string>
+    <string name="no_data">No data</string>
+    <string name="waiting">Waiting data .....</string>
+
 </resources>
