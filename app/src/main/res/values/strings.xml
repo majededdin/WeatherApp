@@ -10,7 +10,7 @@
 
     <!--  For AppStructure & Validation  -->
     <string name="retry">Retry</string>
-    <string name="search_here">Search Here…</string>
+    <string name="search_here">Search by city name</string>
     <string name="no_result">There is no result !</string>
     <string name="current_weather_condition_is">Current weather condition is :</string>
     <string name="no_data">No data</string>
